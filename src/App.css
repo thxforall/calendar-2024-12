@@ -1,0 +1,17 @@
+.app-container {
+  min-height: 100vh;
+  padding: 0 16px;
+  background-color: #0d1117;
+}
+
+.app-container header {
+  color: #c9d1d9;
+  font-size: 3rem;
+  text-align: center;
+  margin: 16px 0;
+  font-weight: 600;
+}
+
+.ul {
+  background-color: #6a6a6a;
+}

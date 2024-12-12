@@ -1,0 +1,19 @@
+.calendar-header-container {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 8px;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #161b22;
+  padding: 16px;
+  font-size: 1.1rem;
+  border-radius: 6px;
+  border: 1px solid #30363d;
+  color: #c9d1d9;
+}
